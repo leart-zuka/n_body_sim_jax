@@ -1,0 +1,5 @@
+numpy
+matplotlib
+PyQt6
+jaxlib
+jax[cuda12]
